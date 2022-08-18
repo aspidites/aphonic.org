@@ -11,6 +11,5 @@ externalLink = ""
 series = []
 +++
 
-# Nice
-Trying out Hugo for my website
-I guess this is ok
+# Welcome
+Welcome to my corner of the internet!

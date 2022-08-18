@@ -1,0 +1,49 @@
+baseURL = 'https://blog.aphonic.org'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+title = 'aphonic.org'
+theme = "hugo-coder"
+
+paginate = 20
+
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+[params]
+  author = "Edwin Marshall"
+  info = "Coding Wizard"
+  description = "Edwin Marsha's personal website"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hideColorSchemeToggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/aspidites"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "/posts"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "/projects"
+
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "/about"

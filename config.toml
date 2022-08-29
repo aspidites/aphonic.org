@@ -33,7 +33,14 @@ pygmentsCodeFencesGuessSyntax = true
   weight = 1
   url = "https://github.com/aspidites"
 
+[[params.social]]
+  name = "Resume"
+  icon = "fa fa-file-text-o fa-2x"
+  weight = 1
+  url = "/resume.pdf"
+
 [[menu.main]]
   name = "Blog"
   weight = 1
   url = "/posts"
+

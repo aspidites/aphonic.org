@@ -12,8 +12,8 @@ pygmentsCodeFencesGuessSyntax = true
 
 [params]
   author = "Edwin Marshall"
-  info = "Coding Wizard"
-  description = "Edwin Marsha's personal website"
+  info = "Engineer | Blogger | Gamer"
+  description = "The many ramblings of Edwin Marshall"
 
   since = 2022
 
